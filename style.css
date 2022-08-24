@@ -1,0 +1,12 @@
+.row {
+    display: flex;
+    flex: row;
+}
+
+a {
+    text-transform: none;
+}
+
+.row > div > button{
+    width: 40px;
+}
